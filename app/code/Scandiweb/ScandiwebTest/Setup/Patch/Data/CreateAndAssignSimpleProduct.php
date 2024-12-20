@@ -1,7 +1,7 @@
 <?php
 
 /**
- * AddSimpleProduct Data Patch
+ * CreateAndAssignSimpleProduct Data Patch
  *
  * @category     Scandiweb
  * @package      Scandiweb_ScandiwebTest
